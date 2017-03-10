@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/sooheib/Desktop/Android/Apps/JumpingPanda/app/libs/GoogleAdMobAdsSdk-6.4.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6262c554ef5744538d526465aa73704810705734">
+        <dex dex="/home/sooheib/Desktop/Android/Apps/JumpingPanda/app/build/intermediates/pre-dexed/release/GoogleAdMobAdsSdk-6.4.1_fffd652a69d6f2fe780b47d4766599843ce1b864.jar" />
+    </item>
+
+</items>

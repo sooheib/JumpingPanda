@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/sooheib/Desktop/Android/Apps/JumpingPanda/app/build/intermediates/res/merged/debug/raw/bomb.mp3",
+        "source": "/home/sooheib/Desktop/Android/Apps/JumpingPanda/app/src/main/res/raw/bomb.mp3"
+    },
+    {
+        "merged": "/home/sooheib/Desktop/Android/Apps/JumpingPanda/app/build/intermediates/res/merged/debug/raw/gameover.mp3",
+        "source": "/home/sooheib/Desktop/Android/Apps/JumpingPanda/app/src/main/res/raw/gameover.mp3"
+    },
+    {
+        "merged": "/home/sooheib/Desktop/Android/Apps/JumpingPanda/app/build/intermediates/res/merged/debug/raw/death.mp3",
+        "source": "/home/sooheib/Desktop/Android/Apps/JumpingPanda/app/src/main/res/raw/death.mp3"
+    },
+    {
+        "merged": "/home/sooheib/Desktop/Android/Apps/JumpingPanda/app/build/intermediates/res/merged/debug/raw/bounce.mp3",
+        "source": "/home/sooheib/Desktop/Android/Apps/JumpingPanda/app/src/main/res/raw/bounce.mp3"
+    },
+    {
+        "merged": "/home/sooheib/Desktop/Android/Apps/JumpingPanda/app/build/intermediates/res/merged/debug/raw/fly.mp3",
+        "source": "/home/sooheib/Desktop/Android/Apps/JumpingPanda/app/src/main/res/raw/fly.mp3"
+    },
+    {
+        "merged": "/home/sooheib/Desktop/Android/Apps/JumpingPanda/app/build/intermediates/res/merged/debug/raw/jumppad.mp3",
+        "source": "/home/sooheib/Desktop/Android/Apps/JumpingPanda/app/src/main/res/raw/jumppad.mp3"
+    },
+    {
+        "merged": "/home/sooheib/Desktop/Android/Apps/JumpingPanda/app/build/intermediates/res/merged/debug/raw/gamebg.mp3",
+        "source": "/home/sooheib/Desktop/Android/Apps/JumpingPanda/app/src/main/res/raw/gamebg.mp3"
+    }
+]
